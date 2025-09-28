@@ -9,7 +9,7 @@ Add link to Fortnightly sprints
 
 [Sprint 2](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint2)
 
-[Sprint 3]()
+[Sprint 3](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint3)
 
-[Sprint 4]()
+[Sprint 4](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint4)
 
