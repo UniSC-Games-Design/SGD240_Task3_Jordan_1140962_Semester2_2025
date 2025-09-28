@@ -1,6 +1,6 @@
 # **Fortnightly** Sprints
 
-Each fortnight attempting to achieve set out sprints
+Each fortnight attempting to achieve set out sprint targets
 
 ## Week 4 and 5:
 
