@@ -5,11 +5,11 @@ Use Unreal Engine 5.3.2
 
 Add link to Fortnightly sprints
 
-[Sprint 1](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint1)
+[Sprint 1](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint1.md)
 
-[Sprint 2](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint2)
+[Sprint 2](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint2.md)
 
-[Sprint 3](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint3)
+[Sprint 3](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint3.md)
 
-[Sprint 4](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint4)
+[Sprint 4](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint4.md)
 
