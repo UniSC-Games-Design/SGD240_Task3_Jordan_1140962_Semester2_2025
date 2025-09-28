@@ -24,9 +24,7 @@ Each fortnight attempting to achieve set out sprint targets
 
 e.g:
 
-Fire Grenade  =  Evade
-
-Explosive Grenade  =  Go Prone 
+Fire Grenade  =  Go Prone
 
 Acid Grenade =  Jump
 
