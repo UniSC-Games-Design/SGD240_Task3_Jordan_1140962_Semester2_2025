@@ -1,15 +1,13 @@
-Home page for SGD240 Behaviour Trees
-
-Use Unreal Engine 5.3.2
+Sprint 4 page
 
 
-Add link to Fortnightly sprints
+Here the plan is to add more grenade types for the AI to respond to.
 
-[Sprint 1](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint1)
+Grenade type = Different response 
 
-[Sprint 2](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint2)
+Standard Grenade type = Evade
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-[Sprint 3](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint3)
+Add Fire Grenade Type (denoted by Orange) = Go Prone Temporarily
 
-[Sprint 4](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint4)
-
+Add Acid Grenade Type (denoted by Green)  = Jump Temporarily

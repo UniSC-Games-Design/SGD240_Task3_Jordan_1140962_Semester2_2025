@@ -1,15 +1,5 @@
-Home page for SGD240 Behaviour Trees
+Sprint 3 page
 
-Use Unreal Engine 5.3.2
+The plan here is to add the code to allow the AI to respond to the player who is firing Grenades at them via the First Person Shooter Starter Project
 
-
-Add link to Fortnightly sprints
-
-[Sprint 1](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint1)
-
-[Sprint 2](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint2)
-
-[Sprint 3](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint3)
-
-[Sprint 4](https://github.com/UniSC-Games-Design/SGD240_Task3_Jordan_1140962_Semester2_2025/blob/main/Sprint4)
-
+Initally we will be testing this with just 1 type of grenade and the AI will respond by attempting to evade the grenade by turning away 
