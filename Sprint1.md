@@ -11,7 +11,7 @@ This blueprint runs the behaviour tree firing off the above Task and tells the A
 
 
 
-This Blueprint tells the AI Character to stop moving but play its running animation, As i have set the movenment boundaries of the AI to a small area, and the player start actor "Target Location" is located outside the boundaries, the selector fails and restarts continuously, achieving the desired running in place effect.
+This Blueprint tells the AI Character to stop moving but play its running animation, As i have set the Nav Mesh Bounds of the AI to a small area, and the player start actor "Target Location" is located outside the boundaries, the selector fails and restarts continuously, achieving the desired running in place effect.
 <img width="1005" height="339" alt="BehaviourtreeTask" src="https://github.com/user-attachments/assets/de6b5cde-34c6-440c-8c2b-7fc77b32c9f1" />
 
 
