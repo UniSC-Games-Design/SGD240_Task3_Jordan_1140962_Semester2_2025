@@ -1,6 +1,6 @@
 # Sprint 3 page
 
-## The plan here is to add the code to allow the AI Character to respond to the grenades being fired at them.
+### The plan here is to add the code to allow the AI Character to respond to the grenades being fired at them.
 
 
 
